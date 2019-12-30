@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv">Loading Sources ...</string>
+    <string name="imageView">imageview</string>
+    <string name="textView">textview</string>
+    <string name="textView2">textview2</string>
+    <string name="textView3">textview3</string>
+    <string name="tv1">Loading Stories ...</string>
+</resources>
